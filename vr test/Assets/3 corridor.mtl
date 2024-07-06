@@ -1,0 +1,18 @@
+# Created by Polycam
+# object name: 3 corridor
+newmtl 3 corridor_0
+Ka 0.000 0.000 0.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+Tr 0.000000
+illum 1
+Ns 1.000000
+map_Kd 3 corridor_0_fpri34Ni.jpg
+newmtl 3 corridor_1
+Ka 0.000 0.000 0.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+Tr 0.000000
+illum 1
+Ns 1.000000
+map_Kd 3 corridor_1_fpri34Ni.jpg
